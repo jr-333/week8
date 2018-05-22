@@ -25,6 +25,7 @@ Vulnerability #2: __________________
 ## Green
 
 Vulnerability #1: Username Enumeration
+![user_enum](https://user-images.githubusercontent.com/38142630/40336284-a4bad25a-5d1d-11e8-94aa-3daf72427df8.gif)
 
 Vulnerability #2: __________________
 
